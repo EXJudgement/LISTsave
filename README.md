@@ -1,6 +1,6 @@
 # LISTsave: The Cloud-Free Saving Solution for Scratch
 
-![LISTsave Logo](https://th.bing.com/th/id/OIG.Q3tFDfKm9vy4wP0lAaeW?pid=ImgGn)
+<img src="[URL_TO_YOUR_IMAGE](https://th.bing.com/th/id/OIG.Q3tFDfKm9vy4wP0lAaeW?pid=ImgGn)" width="200">
 
 Tired of grappling with cloud variables for saving progress in Scratch? Look no further than **LISTsave** - the innovative system that harnesses the power of lists to simplify progress saving! Whether you're a beginner lacking cloud access or an experienced user seeking a more straightforward solution, LISTsave has you covered.
 
